@@ -1,0 +1,4 @@
+C:\Users\valen\Documents\visual studio 2015\Projects\NetworksAPI\NetworksAPI\bin\Debug\NetworksApi.dll
+C:\Users\valen\Documents\visual studio 2015\Projects\NetworksAPI\NetworksAPI\bin\Debug\NetworksApi.pdb
+C:\Users\valen\Documents\visual studio 2015\Projects\NetworksAPI\NetworksAPI\obj\x86\Debug\NetworksApi.dll
+C:\Users\valen\Documents\visual studio 2015\Projects\NetworksAPI\NetworksAPI\obj\x86\Debug\NetworksApi.pdb
